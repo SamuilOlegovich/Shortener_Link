@@ -1,7 +1,7 @@
 package com.samuil.olegovich.shortener.tests;
 
-import com.javarush.task.task33.task3310.Shortener;
-import com.javarush.task.task33.task3310.strategy.*;
+import com.samuil.olegovich.shortener.Shortener;
+import com.samuil.olegovich.shortener.strategy.*;
 import org.junit.Assert;
 import org.junit.Test;
 

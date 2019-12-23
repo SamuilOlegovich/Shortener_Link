@@ -24,7 +24,8 @@ package com.samuil.olegovich.shortener;/*
 
 */
 
-import com.javarush.task.task33.task3310.strategy.StorageStrategy;
+
+import com.samuil.olegovich.shortener.strategy.StorageStrategy;
 
 public class Shortener {
     // Это поле будет отвечать за последнее значение идентификатора,

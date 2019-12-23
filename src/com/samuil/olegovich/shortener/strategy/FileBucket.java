@@ -1,6 +1,6 @@
 package com.samuil.olegovich.shortener.strategy;
 
-import com.javarush.task.task33.task3310.ExceptionHandler;
+import com.samuil.olegovich.shortener.ExceptionHandler;
 
 import java.io.*;
 import java.nio.file.Files;

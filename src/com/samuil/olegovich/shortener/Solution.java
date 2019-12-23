@@ -1,7 +1,7 @@
 package com.samuil.olegovich.shortener;
 
 import com.samuil.olegovich.shortener.strategy.HashMapStorageStrategy;
-import com.javarush.task.task33.task3310.strategy.StorageStrategy;
+import com.samuil.olegovich.shortener.strategy.StorageStrategy;
 
 import java.util.Date;
 import java.util.HashSet;
@@ -85,10 +85,5 @@ public class Solution {
                 Helper.printMessage("Тест не пройден.");
             }
         } catch (Exception e) { Helper.printMessage("Тест не пройден."); }
-
-
-
-
-
     }
 }
